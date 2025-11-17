@@ -16,7 +16,8 @@ StaffReportingTest
 StaffContentFlaggingTest  
 
 Running JUnit:   
-You will need to configure you run on ecplise to run these JUnits.  
+THe JUnits are in the FunctionCose/src and need you to lunch ecplise for it to work.  
+You will then need to configure you run on ecplise to run these JUnits.  
 StaffFunctionalityTest  
 StaffReportingTest  
 StaffContentFlaggingTest  
