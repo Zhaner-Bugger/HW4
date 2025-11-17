@@ -16,7 +16,7 @@ StaffReportingTest
 StaffContentFlaggingTest  
 
 Running JUnit:   
-You will need to configure you run on ecplise to run.  
+You will need to configure you run on ecplise to run these JUnits.  
 StaffFunctionalityTest  
 StaffReportingTest  
 StaffContentFlaggingTest  
