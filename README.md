@@ -1,7 +1,7 @@
 # HW4
 Creation and application of Staff (epic) user story.
 
-[ScreenCast]()
+[ScreenCast](https://youtu.be/-hutwaWdkwM?si=Ov_NRz5YKdt9py8n)
 
 The Javadoc is stored in the JavaDocs folder.
 
