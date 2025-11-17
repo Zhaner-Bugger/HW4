@@ -3,6 +3,8 @@ Creation and application of Staff (epic) user story.
 
 [ScreenCast]()
 
+The Javadoc is stored in the JavaDocs folder.
+
 Created Classes:  
 ConetentFlag  
 StaffContentViewPage  
